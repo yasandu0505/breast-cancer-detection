@@ -474,6 +474,11 @@ Month_of_Birth,Age,Sex,Occupation,T_Stage,N_Stage,6th_Stage,Differentiated,Grade
 12,61.0,Female,,T2,N2,IIIA,Moderately differentiated,2,Regional,36.0,Positive,Positive,9.0,7,60,Alive
 5,56.0,Female,,T1,N1,IIA,Moderately differentiated,2,Regional,16.0,Positive,Positive,14.0,2,50,Alive
 8,50.0,Female,,T2,N2,IIIA,Poorly differentiated,3,Regional,25.0,Positive,Positive,15.0,4,90,Alive
+9,55.0,Female,,T2,N1,IIB,Moderately differentiated,2,Regional,30.0,Positive,Positive,11.0,5,88,Alive
+10,60.0,Female,,T1,N1,IIA,Moderately differentiated,2,Regional,19.0,Positive,Positive,19.0,1,75,Alive
+10,34.0,Female,,T2,N1,IIB,Poorly differentiated,3,Regional,30.0,Positive,Positive,1.0,1,74,Alive
+7,51.0,Female,,T3,N1,IIIA,Moderately differentiated,2,Regional,55.0,Positive,Positive,2.0,1,56,Alive
+8,53.0,Female,,T3,N2,IIIA,Moderately differentiated,2,Regional,80.0,Positive,Positive,17.0,5,103,Alive
 10,48.0,Female,,T1,N1,IIA,Well differentiated,1,Regional,10.0,Positive,Positive,27.0,2,93,Alive
 4,63.0,Female,,T2,N3,IIIC,Well differentiated,1,Regional,30.0,Positive,Positive,18.0,10,60,Alive
 10,56.0,Female,,T3,N3,IIIC,Poorly differentiated,3,Regional,60.0,Positive,Positive,24.0,13,76,Alive
@@ -548,6 +553,7 @@ Month_of_Birth,Age,Sex,Occupation,T_Stage,N_Stage,6th_Stage,Differentiated,Grade
 1,52.0,Female,,T1,N1,IIA,Moderately differentiated,2,Regional,15.0,Positive,Positive,12.0,2,68,Alive
 2,36.0,Female,,T2,N1,IIB,Well differentiated,1,Regional,45.0,Positive,Positive,2.0,1,53,Alive
 4,64.0,Female,,T1,N1,IIA,Well differentiated,1,Regional,13.0,Positive,Positive,24.0,1,79,Alive
+3,55.0,Female,,T2,N1,IIB,Moderately differentiated,2,Regional,25.0,Positive,Positive,3.0,3,83,Alive
 1,65.0,Female,,T1,N1,IIA,Moderately differentiated,2,Regional,11.0,Positive,Positive,7.0,2,89,Alive
 7,45.0,Female,,T3,N1,IIIA,Poorly differentiated,3,Regional,58.0,Negative,Negative,26.0,2,64,Alive
 5,68.0,Female,,T2,N1,IIB,Well differentiated,1,Regional,30.0,Positive,Positive,3.0,1,89,Alive
@@ -642,8 +648,10 @@ Month_of_Birth,Age,Sex,Occupation,T_Stage,N_Stage,6th_Stage,Differentiated,Grade
 9,43.0,Female,,T2,N1,IIB,Poorly differentiated,3,Regional,25.0,Positive,Positive,2.0,1,69,Alive
 9,63.0,Female,,T3,N1,IIIA,Moderately differentiated,2,Regional,90.0,Positive,Positive,13.0,2,99,Alive
 6,43.0,Female,,T1,N2,IIIA,Moderately differentiated,2,Regional,13.0,Positive,Positive,11.0,6,82,Alive
+3,36.0,Female,,T1,N2,IIIA,Moderately differentiated,2,Regional,12.0,Positive,Negative,19.0,8,80,Alive
 4,63.0,Female,,T2,N1,IIB,Moderately differentiated,2,Regional,45.0,Positive,Positive,17.0,1,105,Alive
 7,60.0,Female,,T1,N1,IIA,Moderately differentiated,2,Regional,15.0,Positive,Positive,12.0,1,53,Alive
+3,56.0,Female,,T2,N2,IIIA,Moderately differentiated,2,Regional,35.0,Positive,Negative,7.0,5,18,Alive
 12,44.0,Female,,T1,N1,IIA,Moderately differentiated,2,Regional,17.0,Positive,Positive,18.0,1,97,Alive
 9,50.0,Female,,T3,N1,IIIA,Well differentiated,1,Regional,55.0,Positive,Positive,20.0,3,54,Alive
 12,55.0,Female,,T1,N1,IIA,Poorly differentiated,3,Regional,16.0,Positive,Positive,16.0,2,80,Alive
@@ -683,6 +691,7 @@ Month_of_Birth,Age,Sex,Occupation,T_Stage,N_Stage,6th_Stage,Differentiated,Grade
 4,52.0,Female,,T2,N1,IIB,Moderately differentiated,2,Regional,28.0,Positive,Positive,2.0,1,95,Alive
 11,56.0,Female,,T1,N1,IIA,Moderately differentiated,2,Regional,4.0,Positive,Positive,1.0,1,94,Alive
 2,69.0,Female,,T2,N1,IIB,Moderately differentiated,2,Regional,25.0,Negative,Negative,9.0,1,94,Alive
+8,49.0,Female,,T1,N1,IIA,Moderately differentiated,2,Regional,15.0,Positive,Positive,2.0,1,48,Alive
 4,64.0,Female,,T3,N1,IIIA,Moderately differentiated,2,Regional,61.0,Positive,Negative,1.0,1,58,Alive
 11,48.0,Female,,T2,N1,IIB,Moderately differentiated,2,Regional,22.0,Positive,Positive,20.0,1,101,Alive
 10,41.0,Female,,T2,N1,IIB,Poorly differentiated,3,Regional,27.0,Positive,Positive,19.0,2,96,Alive
