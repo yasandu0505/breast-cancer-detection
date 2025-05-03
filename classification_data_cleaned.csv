@@ -47,11 +47,11 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 66.0,IIIA,Moderately differentiated,2,Regional,51.0,10.0,5,0,False,True,False,True,False,True,True
 42.0,IIIC,Moderately differentiated,2,Regional,9.0,15.0,2,1,False,False,False,False,True,False,False
 62.0,IIA,Moderately differentiated,2,Regional,15.0,12.0,1,0,False,False,False,False,False,True,True
-,IIIA,Moderately differentiated,2,Regional,32.0,16.0,9,0,True,False,False,True,False,True,True
+54.10709838107098,IIIA,Moderately differentiated,2,Regional,32.0,16.0,9,0,True,False,False,True,False,True,True
 69.0,IIA,Moderately differentiated,2,Regional,5.0,8.0,3,0,False,False,False,False,False,True,True
 37.0,IIB,Moderately differentiated,2,Regional,23.0,17.0,3,0,True,False,False,False,False,True,True
 69.0,IIIA,Moderately differentiated,2,Regional,55.0,9.0,1,0,False,True,False,False,False,True,False
-,IIIA,Poorly differentiated,3,Regional,120.0,7.0,1,0,False,True,False,False,False,True,False
+54.10709838107098,IIIA,Poorly differentiated,3,Regional,120.0,7.0,1,0,False,True,False,False,False,True,False
 63.0,IIIA,Well differentiated,1,Regional,77.0,20.0,2,0,False,True,False,False,False,True,False
 57.0,IIA,Moderately differentiated,2,Regional,2.0,16.0,1,0,False,False,False,False,False,True,False
 55.0,IIA,Moderately differentiated,2,Regional,11.0,13.0,1,0,False,False,False,False,False,True,True
@@ -69,7 +69,7 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 40.0,IIA,Poorly differentiated,3,Regional,15.0,20.0,3,0,False,False,False,False,False,True,True
 58.0,IIA,Poorly differentiated,3,Regional,15.0,5.0,1,0,False,False,False,False,False,True,True
 52.0,IIA,Moderately differentiated,2,Regional,17.0,12.0,3,0,False,False,False,False,False,True,True
-,IIIA,Poorly differentiated,3,Regional,130.0,12.0,8,0,False,True,False,True,False,True,False
+54.10709838107098,IIIA,Poorly differentiated,3,Regional,130.0,12.0,8,0,False,True,False,True,False,True,False
 64.0,IIIC,Poorly differentiated,3,Regional,34.0,24.0,20,1,True,False,False,False,True,True,False
 31.0,IIB,Poorly differentiated,3,Regional,30.0,16.0,1,0,True,False,False,False,False,True,True
 66.0,IIA,Moderately differentiated,2,Regional,10.0,15.0,1,0,False,False,False,False,False,True,True
@@ -251,7 +251,7 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 50.0,IIA,Moderately differentiated,2,Regional,17.0,11.0,1,0,False,False,False,False,False,True,True
 40.0,IIIA,Moderately differentiated,2,Regional,50.0,6.0,6,0,True,False,False,True,False,True,True
 52.0,IIB,Moderately differentiated,2,Regional,48.0,5.0,1,0,True,False,False,False,False,True,True
-,IIB,Well differentiated,1,Regional,30.0,2.0,2,0,True,False,False,False,False,True,True
+54.10709838107098,IIB,Well differentiated,1,Regional,30.0,2.0,2,0,True,False,False,False,False,True,True
 32.0,IIIA,Poorly differentiated,3,Regional,68.0,13.0,6,0,False,True,False,True,False,True,False
 65.0,IIIA,Moderately differentiated,2,Regional,110.0,19.0,2,0,False,True,False,False,False,True,True
 67.0,IIB,Poorly differentiated,3,Regional,23.0,20.0,2,0,True,False,False,False,False,True,False
@@ -275,7 +275,7 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 58.0,IIIA,Moderately differentiated,2,Regional,18.0,9.0,9,0,False,False,False,True,False,True,True
 38.0,IIB,Poorly differentiated,3,Regional,34.0,11.0,1,0,True,False,False,False,False,True,False
 57.0,IIA,Poorly differentiated,3,Regional,6.0,2.0,1,0,False,False,False,False,False,False,False
-65.0,IIIA,Well differentiated,1,Regional,105.0,,2,0,False,True,False,False,False,True,True
+65.0,IIIA,Well differentiated,1,Regional,105.0,14.373601789709172,2,0,False,True,False,False,False,True,True
 52.0,IIIC,Undifferentiated,4,Regional,100.0,23.0,17,1,False,True,False,False,True,True,True
 67.0,IIA,Well differentiated,1,Regional,20.0,14.0,2,0,False,False,False,False,False,True,True
 57.0,IIIA,Moderately differentiated,2,Regional,57.0,14.0,3,0,False,True,False,False,False,True,True
@@ -370,7 +370,7 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 63.0,IIB,Poorly differentiated,3,Regional,41.0,14.0,4,0,True,False,False,False,False,True,False
 69.0,IIIA,Poorly differentiated,3,Regional,16.0,12.0,6,1,False,False,False,True,False,True,True
 59.0,IIIC,Moderately differentiated,2,Regional,25.0,30.0,11,0,True,False,False,False,True,True,False
-,IIIC,Moderately differentiated,2,Distant,108.0,16.0,14,1,False,False,True,False,True,True,True
+54.10709838107098,IIIC,Moderately differentiated,2,Distant,108.0,16.0,14,1,False,False,True,False,True,True,True
 65.0,IIA,Moderately differentiated,2,Regional,12.0,2.0,1,0,False,False,False,False,False,True,True
 48.0,IIIA,Well differentiated,1,Regional,38.0,24.0,4,0,True,False,False,True,False,True,True
 39.0,IIIC,Moderately differentiated,2,Regional,24.0,26.0,13,0,True,False,False,False,True,True,True
@@ -398,7 +398,7 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 47.0,IIIB,Moderately differentiated,2,Regional,65.0,14.0,4,0,False,False,True,True,False,True,True
 37.0,IIA,Well differentiated,1,Regional,17.0,6.0,1,0,False,False,False,False,False,True,False
 63.0,IIIA,Poorly differentiated,3,Regional,15.0,18.0,8,0,False,False,False,True,False,False,False
-,IIA,Moderately differentiated,2,Regional,15.0,8.0,1,0,False,False,False,False,False,True,True
+54.10709838107098,IIA,Moderately differentiated,2,Regional,15.0,8.0,1,0,False,False,False,False,False,True,True
 50.0,IIA,Moderately differentiated,2,Regional,19.0,31.0,2,0,False,False,False,False,False,True,True
 56.0,IIIA,Well differentiated,1,Regional,90.0,13.0,1,0,False,True,False,False,False,True,True
 56.0,IIA,Moderately differentiated,2,Regional,10.0,14.0,1,0,False,False,False,False,False,True,True
@@ -406,7 +406,7 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 38.0,IIB,Poorly differentiated,3,Regional,31.0,13.0,1,0,True,False,False,False,False,True,True
 57.0,IIB,Moderately differentiated,2,Regional,30.0,20.0,2,0,True,False,False,False,False,True,True
 56.0,IIB,Moderately differentiated,2,Regional,26.0,12.0,2,0,True,False,False,False,False,True,False
-,IIB,Poorly differentiated,3,Regional,25.0,9.0,2,0,True,False,False,False,False,True,True
+54.10709838107098,IIB,Poorly differentiated,3,Regional,25.0,9.0,2,0,True,False,False,False,False,True,True
 54.0,IIA,Moderately differentiated,2,Regional,11.0,1.0,1,0,False,False,False,False,False,True,True
 69.0,IIB,Moderately differentiated,2,Regional,22.0,9.0,1,0,True,False,False,False,False,True,True
 62.0,IIIA,Poorly differentiated,3,Regional,59.0,7.0,2,0,False,True,False,False,False,True,True
@@ -457,7 +457,7 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 68.0,IIIC,Poorly differentiated,3,Regional,40.0,19.0,19,1,True,False,False,False,True,False,False
 50.0,IIA,Moderately differentiated,2,Regional,20.0,20.0,1,0,False,False,False,False,False,True,True
 42.0,IIIC,Moderately differentiated,2,Regional,12.0,16.0,11,1,False,False,False,False,True,True,True
-,IIA,Moderately differentiated,2,Regional,16.0,13.0,1,0,False,False,False,False,False,True,True
+54.10709838107098,IIA,Moderately differentiated,2,Regional,16.0,13.0,1,0,False,False,False,False,False,True,True
 42.0,IIA,Moderately differentiated,2,Regional,10.0,10.0,1,0,False,False,False,False,False,True,True
 46.0,IIA,Moderately differentiated,2,Regional,20.0,6.0,2,0,False,False,False,False,False,True,True
 50.0,IIA,Moderately differentiated,2,Regional,20.0,18.0,2,0,False,False,False,False,False,True,True
@@ -493,7 +493,7 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 53.0,IIA,Well differentiated,1,Regional,9.0,15.0,1,0,False,False,False,False,False,True,True
 54.0,IIA,Poorly differentiated,3,Regional,16.0,7.0,3,0,False,False,False,False,False,True,False
 61.0,IIIA,Poorly differentiated,3,Regional,60.0,10.0,6,1,False,True,False,True,False,True,False
-,IIA,Moderately differentiated,2,Regional,15.0,18.0,2,0,False,False,False,False,False,True,True
+54.10709838107098,IIA,Moderately differentiated,2,Regional,15.0,18.0,2,0,False,False,False,False,False,True,True
 41.0,IIA,Well differentiated,1,Regional,12.0,23.0,2,0,False,False,False,False,False,True,True
 57.0,IIA,Moderately differentiated,2,Regional,17.0,23.0,1,0,False,False,False,False,False,True,True
 40.0,IIB,Moderately differentiated,2,Regional,25.0,16.0,1,0,True,False,False,False,False,True,True
@@ -550,7 +550,7 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 62.0,IIIC,Moderately differentiated,2,Regional,18.0,22.0,22,1,False,False,False,False,True,True,True
 51.0,IIIA,Moderately differentiated,2,Regional,20.0,20.0,4,0,False,False,False,True,False,False,True
 57.0,IIIC,Moderately differentiated,2,Regional,55.0,47.0,31,1,False,True,False,False,True,True,False
-46.0,IIIA,Well differentiated,1,Regional,,15.0,3,0,False,True,False,False,False,True,True
+46.0,IIIA,Well differentiated,1,Regional,30.41929868191992,15.0,3,0,False,True,False,False,False,True,True
 40.0,IIA,Poorly differentiated,3,Regional,11.0,13.0,2,0,False,False,False,False,False,True,True
 49.0,IIIA,Poorly differentiated,3,Regional,11.0,17.0,4,0,False,False,False,True,False,True,True
 46.0,IIB,Poorly differentiated,3,Regional,40.0,14.0,2,0,True,False,False,False,False,True,True
@@ -665,7 +665,7 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 65.0,IIIB,Moderately differentiated,2,Regional,51.0,19.0,3,1,False,False,True,False,False,False,False
 67.0,IIA,Well differentiated,1,Regional,15.0,1.0,1,0,False,False,False,False,False,True,True
 63.0,IIIA,Moderately differentiated,2,Regional,60.0,8.0,5,1,False,True,False,True,False,True,False
-43.0,IIIA,Moderately differentiated,2,Regional,,16.0,4,0,False,False,False,True,False,True,True
+43.0,IIIA,Moderately differentiated,2,Regional,30.41929868191992,16.0,4,0,False,False,False,True,False,True,True
 57.0,IIIA,Moderately differentiated,2,Regional,51.0,19.0,2,0,False,True,False,False,False,True,True
 63.0,IIB,Moderately differentiated,2,Regional,25.0,28.0,1,0,True,False,False,False,False,True,True
 52.0,IIB,Moderately differentiated,2,Regional,30.0,12.0,1,0,True,False,False,False,False,True,True
@@ -746,7 +746,7 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 67.0,IIA,Poorly differentiated,3,Regional,20.0,8.0,3,0,False,False,False,False,False,True,True
 50.0,IIA,Moderately differentiated,2,Regional,17.0,9.0,1,0,False,False,False,False,False,True,True
 46.0,IIIA,Moderately differentiated,2,Regional,65.0,21.0,6,0,False,True,False,True,False,True,True
-39.0,IIIA,Moderately differentiated,2,Regional,,26.0,2,0,False,True,False,False,False,True,True
+39.0,IIIA,Moderately differentiated,2,Regional,30.41929868191992,26.0,2,0,False,True,False,False,False,True,True
 55.0,IIIA,Moderately differentiated,2,Regional,19.0,25.0,4,0,False,False,False,True,False,True,True
 59.0,IIA,Moderately differentiated,2,Regional,12.0,2.0,1,0,False,False,False,False,False,True,True
 32.0,IIA,Well differentiated,1,Regional,11.0,13.0,3,0,False,False,False,False,False,True,True

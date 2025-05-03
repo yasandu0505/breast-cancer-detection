@@ -57,7 +57,7 @@ Age,6th_Stage,Differentiated,Grade,A_Stage,Tumor_Size,Regional_Node_Examined,Reg
 56.0,IIIA,Moderately differentiated,2,Regional,80.0,24.0,3,47,1,False,True,False,False,False,False,False
 51.0,IIB,Moderately differentiated,2,Regional,30.0,2.0,2,100,1,True,False,False,False,False,True,True
 69.0,IIIA,Poorly differentiated,3,Regional,16.0,12.0,6,85,1,False,False,False,True,False,True,True
-,IIIC,Moderately differentiated,2,Distant,108.0,16.0,14,71,1,False,False,True,False,True,True,True
+54.10709838107098,IIIC,Moderately differentiated,2,Distant,108.0,16.0,14,71,1,False,False,True,False,True,True,True
 58.0,IIIA,Moderately differentiated,2,Regional,90.0,15.0,9,100,1,False,True,False,True,False,True,True
 39.0,IIIC,Poorly differentiated,3,Regional,45.0,40.0,13,17,1,True,False,False,False,True,False,False
 47.0,IIA,Poorly differentiated,3,Regional,18.0,9.0,1,45,1,False,False,False,False,False,True,True
